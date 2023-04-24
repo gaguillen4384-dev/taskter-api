@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Taskter-API/appsettings.Development.json
+/Taskter-API/appsettings.json
+/.vs
+/Taskter-API/.vs/Taskter-API
+/Taskter-API/obj
+/Taskter-API/Properties
